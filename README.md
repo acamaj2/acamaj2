@@ -32,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,ai,linux" />
-    <img src="https://skillicons.dev/icons?i=rasberrypi,arduino,matlab,opencv,py,pytorch,ros,docker,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,ai,linux,rasberrypi,arduino,matlab,opencv,py,pytorch,ros,docker,vscode" />
+<!--     <img src="https://skillicons.dev/icons?i=" /><br> -->
 </div>
 
 <br/>
