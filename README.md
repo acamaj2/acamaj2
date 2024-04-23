@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alex+Camaj!;" />
 </h1>
 
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate computer engineer</h3>
 
 <br/>
 
@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,ai,linux,rasberrypi,arduino,matlab,opencv,py,pytorch,ros,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,ros,git,opencv,py,pytorch,github,ai,linux,raspberrypi,arduino,matlab,docker,vscode" />
 <!--     <img src="https://skillicons.dev/icons?i=" /><br> -->
 </div>
 
