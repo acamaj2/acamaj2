@@ -43,7 +43,7 @@
 <br>
 <div align=center>
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=acamaj2&theme=travelers-theme&border_radius=50" alt="GitHub Streak" /></a><br>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=acamaj2&hide=jupyter%20notebook,HTML,Java&langs_count=3&layout=compact&theme=travelers-theme&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=acamaj2&hide=jupyter%20notebook,HTML,Java&langs_count=3&layout=compact&theme=calm_pink&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
