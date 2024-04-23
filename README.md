@@ -55,8 +55,6 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' border='0' alt='Thanks for visiting!' /></a>
-</div>
+
 
 <br/>
